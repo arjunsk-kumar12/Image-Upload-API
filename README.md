@@ -9,12 +9,14 @@ An RESTful API built to handle Image uploading, retrieving and storage to a Mong
 - Error handling for invalid requests and inputs
 - JWT based Authentication
 - role-based access(user/admin)
+- admin privileges: upload, retrieval, delete
+- user privileges: only retrieval
 
 ## Tech:
 - Node.js
 - Express.js
 - Mongoose
-- MongODB
+- MongoDB
 - Postman(Testing requests)
   
 ## Project Demo:
