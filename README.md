@@ -1,8 +1,7 @@
 # Image Storage API
 
 ## Overview:
-An RESTful API built to handle Image uploading, retrieving and storage to a MongoDB database. This API allows users to securely upload and access the images.
-This project focuses on maintainable backend systems, effecient file handling and database integration
+An RESTful API built to handle Image uploading, retrieving and storage to a MongoDB database. This API allows users to securely upload and access the images. This project focuses on maintainable backend systems, effecient file handling and database integration.
 
 ## Features:
 - Image upload/retrieval using RESTful API endpoints
