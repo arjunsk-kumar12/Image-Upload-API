@@ -11,8 +11,12 @@ This project focuses on maintainable backend systems, effecient file handling an
 - JWT based Authentication
 - role-based access(user/admin)
 
-# Tech:
+## Tech:
 - Node.js
 - Express.js
 - Mongoose
 - MongODB
+- Postman(Testing requests)
+
+
+
